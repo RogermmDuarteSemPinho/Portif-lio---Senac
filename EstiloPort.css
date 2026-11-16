@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Times New Roman', Times, serif, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+p{
+
+
+}
+p1{
+
+}
+
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 100px;
+
+}
+
+
